@@ -1,5 +1,10 @@
 # online-retail-analysis
 Analyzing an online retail dataset using Excel and SQL to identify revenue trends , customer behavior and sales insights  
+# Dataset 
+The dataset used in this project is " online retail dataset"
+Source:https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
+Note : The raw dataset isn't uploaded due to size limitations. Only cleaned data and analysis have been uploaded.
+
 # Online Retail Analysis (SQL + Excel Dashboard)
 
 ## Project Overview
